@@ -32,7 +32,7 @@ layers:
   - D
   - F
   - G
-  - Ctl+Sft+ $$mdi:keyboard-tab$$
+  - $$mdi:skip-previous$$
   - H
   - J
   - K
@@ -45,7 +45,7 @@ layers:
   - C
   - V
   - B
-  - Ctl+ $$mdi:keyboard-tab$$
+  - $$mdi:skip-next$$
   - N
   - M
   - {t: ',', s: <}
@@ -58,7 +58,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - Ctl+ W
+  - PLAY PAUSE
   - layer1
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
